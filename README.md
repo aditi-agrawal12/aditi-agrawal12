@@ -1,4 +1,4 @@
-[![MasterHead](https://virtualwindow.com/wp-content/uploads/2015/09/DKC-Web-Design-Banner.jpg)](https://aditi_agrawal12.io)
+
 <h1 align="center">Hi 👋, I'm Aditi Agrawal</h1>
 <h3 align="center">A passionate frontend web developer , enthusiastic learner currently learning MERN stack and I am problem Solver from India</h3>
 
