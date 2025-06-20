@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-agrawal12&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-agrawal12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-agrawal12" alt="aditi-agrawal12" /></a> </p>
-
 - 🌱 I’m currently learning **Advanced React and Next.js, MongoDB, Express, Node.js**
 
 - 🔧 Tech Stack I use **Frontend: React, Next.js, TypeScript, JavaScript, Tailwind CSS | Backend: Node.js, Express.js, MongoDB | Tools: Git, Postman, Insomnia, VS Code, Cursor, Figma**
