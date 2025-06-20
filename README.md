@@ -11,7 +11,7 @@
 
 - 📍 I'm based in **Ghaziabad, India.**
 
-- ✨ My Hobbies [🎨 Painting | 📓 Journaling | 🧠 Solving Puzzles](🎨 Painting | 📓 Journaling | 🧠 Solving Puzzles)
+- ✨ My Hobbies 🎨 Painting | 📓 Journaling | 🧠 Solving Puzzles
 
 - 🧾 Know About My Experiences [https://drive.google.com/file/d/11oBY6yUOC24t1_ej8Sad4qjWmdXHviBU/view?usp=sharing](https://drive.google.com/file/d/11oBY6yUOC24t1_ej8Sad4qjWmdXHviBU/view?usp=sharing)
 
