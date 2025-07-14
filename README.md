@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-agrawal12&show_icons=true&locale=en" alt="aditi-agrawal12" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=aditi-agrawal12" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=aditi-agrawal12" alt="GitHub Streak" />
 </p>
 
