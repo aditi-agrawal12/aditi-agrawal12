@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditi Agrawal</h1>
 <h3 align="center">Frontend Developer | MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-agrawal12&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-agrawal12" /> </p>
-
 - 🌱 I’m currently learning **Advanced React and Next.js, MongoDB, Express, Node.js**
 
 - 🔧 Tech Stack I use **Frontend: React, Next.js, TypeScript, JavaScript, Tailwind CSS | Backend: Node.js, Express.js, MongoDB | Tools: Git, Postman, Insomnia, VS Code, Cursor, Figma**
@@ -34,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-agrawal12&show_icons=true&locale=en" alt="aditi-agrawal12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-agrawal12&" alt="aditi-agrawal12" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-agrawal12" alt="aditi-agrawal12" /></p>
