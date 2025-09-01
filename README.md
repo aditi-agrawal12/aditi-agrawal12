@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Aditi Agrawal</h1>
 <h3 align="center">Frontend Developer | MERN Stack Developer | Exploring DevOps & Distributed Systems</h3>
 
@@ -24,7 +25,7 @@
 
 - 📫 Reach me at **agrawaladiti125@gmail.com**
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +35,6 @@
 <a href="https://www.geeksforgeeks.org/user/agrawalau0gu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agrawalau0gu" height="30" width="40" /></a>
 </p>
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
