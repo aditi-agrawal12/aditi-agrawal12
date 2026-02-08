@@ -46,8 +46,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aditi-agrawal12&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://YOUR-VERCEL-URL.vercel.app/api?username=aditi-agrawal12&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi-agrawal12&show_icons=true&locale=en)
+![Top Langs](https://YOUR-VERCEL-URL.vercel.app/api/top-langs?username=aditi-agrawal12&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditi-agrawal12)
