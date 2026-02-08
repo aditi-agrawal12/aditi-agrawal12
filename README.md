@@ -45,8 +45,9 @@
 </p>
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditi-agrawal12)
 
-![Metrics](https://metrics.lecoq.io/aditi-agrawal12)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi-agrawal12&show_icons=true&locale=en&layout=compact" alt="aditi-agrawal12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-agrawal12&show_icons=true&locale=en" alt="aditi-agrawal12" /></p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditi-agrawal12)
