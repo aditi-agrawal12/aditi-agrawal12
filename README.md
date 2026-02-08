@@ -45,9 +45,8 @@
 </p>
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditi-agrawal12)
 
-![GitHub Stats](https://YOUR-VERCEL-URL.vercel.app/api?username=aditi-agrawal12&show_icons=true)
-
-![Top Langs](https://YOUR-VERCEL-URL.vercel.app/api/top-langs?username=aditi-agrawal12&layout=compact)
+![Metrics](https://metrics.lecoq.io/aditi-agrawal12)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditi-agrawal12)
