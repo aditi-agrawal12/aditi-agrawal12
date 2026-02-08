@@ -46,8 +46,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi-agrawal12&show_icons=true&locale=en&layout=compact" alt="aditi-agrawal12" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aditi-agrawal12&show_icons=true&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-agrawal12&show_icons=true&locale=en" alt="aditi-agrawal12" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi-agrawal12&show_icons=true&locale=en)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditi-agrawal12)
